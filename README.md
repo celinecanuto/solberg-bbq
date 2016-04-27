@@ -8,6 +8,7 @@
 - Address..
 - Email..
 - Cell..
+- Hobbies and Interest: BBQ Suite Hobbyist, modest collector, camo activities, fishin, brown dog, camping
 
 <b>Idea:</b>
 - Pig illustrator
