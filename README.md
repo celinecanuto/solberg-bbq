@@ -11,7 +11,8 @@
 - Web: https://www.instagram.com/solbergbbq/
 - Hobbies and Interest: BBQ Suite Hobbyist, modest collector, camo activities, fishin, brown dog, camping
 
-<b>Idea:</b>
-- Pig illustrator
+<b>Ideas:</b>
+- bbq smoker
+- pig
 - smoke
 - Color: red, white, black, yellow
